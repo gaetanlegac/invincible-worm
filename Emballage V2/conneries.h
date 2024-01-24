@@ -1,0 +1,3 @@
+string MdpChrome() {
+	return "OK";
+}

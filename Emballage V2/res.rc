@@ -1,0 +1,6 @@
+#include "res.h"
+
+ICONE ICON "Setup.ico"
+
+BINARY RCDATA "zero"
+//DATA RCDATA "../Release/Cadeaux/Message.exe.crypt"
